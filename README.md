@@ -6,7 +6,7 @@ A **real-time website monitoring tool** that checks a website for **availability
 
 ✅ **Website Uptime Monitoring** – Detects if a website is **up or down**.  
 ✅ **Content Change Detection** – Alerts when the website content is modified.  
-✅ **Modern GUI with Dark Theme** – Uses **ttkbootstrap** for a sleek look.  
+✅ **Modern GUI** – Uses **ttkbootstrap** for a sleek look.  
 ✅ **Timestamps & Logging** – Saves all changes in a log file (`website_monitor.log`).  
 ✅ **Start/Stop Monitoring** – Control the monitoring process with buttons.  
 
@@ -63,3 +63,4 @@ This project is open-source and licensed under the **MIT License**.
 ---
 
 ⭐ **Star this repository** if you find it useful! 😊
+   The application will be updated constantly.
